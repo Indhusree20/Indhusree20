@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=70&lines=Hi+There%2C+I'm+Indhusree+M;Aspiring+AI+%26+Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=70&lines=Hi+There%2C+I%27m+Indhusree+M;Aspiring+AI+%26+Full-Stack+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -8,6 +8,7 @@
 
 <br/>
 
+<!-- TODO: replace with Indhusree's real LinkedIn and LeetCode profile URLs -->
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Indhusree20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -130,7 +131,7 @@ AI-powered assistant that evaluates submitted code, detects logical/syntax error
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Indhusree20&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Indhusree20&theme=tokyonight&hide_border=true" />
 
 <br/>
 
